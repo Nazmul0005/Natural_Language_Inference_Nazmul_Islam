@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+jieba
+pythainlp
+gensim
+sentence-transformers
+scikit-learn
+xgboost
+tensorflow
+transformers
+torch
