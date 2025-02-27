@@ -56,12 +56,19 @@ The project involves the following steps:
 ## Project Structure
 
 sentence-pair-classification/
-├── data/
+
+├── data/  
+
 │   ├── train.csv
+
 ├── notebooks/
+
 │   ├── Data_Exploration.ipynb
+
 ├── README.md
+
 ├── requirements.txt
+
 └── performance_report.pdf
 
 
